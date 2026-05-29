@@ -1,7 +1,9 @@
-Project Overview
+**Project Overview:**
+
 This project is an end-to-end data analytics and business intelligence platform designed to evaluate and optimize commercial airline performance. The pipeline integrates multiple synthetic aviation datasets—covering flight operations, weather metrics, airport traffic, fuel price volatility, and customer reviews—into a centralized, optimized Star Schema Data Warehouse. By processing raw operational inputs and integrating predictive machine learning outputs, the platform delivers actionable insights through an executive-level Power BI Dashboard and structural data reports, bridging the gap between technical data engineering and business stakeholders.
 
-Core Objectives
+**Core Objectives:**
+
 Multi-Domain Data Ingestion: Systematically blend disparate data sources including Operations, Weather, Traffic, Finance, and Customer Feedback.
 
 KPI Engineering: Formulate advanced diagnostic metrics like Route Efficiency Scores, Congestion Severity, and Customer Satisfaction Intensity.
@@ -12,10 +14,11 @@ Data Warehouse Modeling: Architect a high-performance Star Schema with decoupled
 
 Interactive Business Intelligence: Build a multi-page Power BI report to track airline operational health and customer sentiment trends.
 
-Data Architecture & Star Schema Model
+**Data Architecture & Star Schema Model:
+**
 The pipeline transforms raw data into an optimized relational model to maximize query performance and reporting efficiency in Power BI.
 
-Schema Relationships
+Schema Relationships::
 Dim_Date (DateID) to Fact_Flights (DateID)
 
 Dim_Route (RouteID) to Fact_Flights (RouteID)
@@ -30,7 +33,8 @@ Fact_Flights (FlightID) to Fact_Delays (FlightID)
 
 Dim_Sentiment (SentimentID) to Fact_Flights (SentimentScore/ID matching)
 
-Data Dictionary & Outputs
+**Data Dictionary & Outputs**
+
 1. Fact Tables
 Fact_Flights.csv: The central operational star schema table containing keys to dimensions and core flight metrics such as DelayMinutes, DelayCost, RouteEfficiencyScore, and SentimentScore.
 
@@ -49,8 +53,10 @@ Dim_Fuel.csv: Financial overhead tracking including FuelPrice, and FuelVolatilit
 
 Dim_Sentiment.csv: Granular customer text-mining metadata including ReviewText, SentimentScore, and SentimentCategory.
 
-Pipeline Workflow
+**
+Pipeline Workflow**
 The workflow begins with raw CSV inputs which are fed into a Python/Pandas Data Pipeline. From there, data undergoes machine learning artifact scoring to append predictions before exporting clean Star Schema CSV files. Finally, these files are imported into Power BI for data modeling and dashboard creation.
+
 
 1. Data Engineering & Transformation (Python)
 Unifies datetime fields, standardizes naming conventions, and handles missing values/outliers.
@@ -69,7 +75,9 @@ Data Load: Import all CSV elements located in the exports directory.
 
 Relationships: Connect the central Fact_Flights table to all surrounding dimension tables using their respective ID fields, and establish a 1-to-many relationship from Fact_Flights to Fact_Delays based on FlightID.
 
-Dashboard Visuals & Insights
+
+**Dashboard Visuals & Insights**
+
 Page 1: Executive Operational Efficiency
 KPI Cards: Average Delay Minutes, Total Delay Financial Cost, Fleet Route Efficiency.
 
@@ -89,7 +97,7 @@ Scatter Chart: Customer Satisfaction Intensity vs. Average Flight Delay Minutes 
 
 Table Visual: Detailed customer review text-mining filtered by low sentiment scores to flag urgent issues.
 
-Technology Stack
+**Technology Stack**
 Language: Python 3.x
 
 Libraries: Pandas, NumPy, Scikit-Learn, Joblib
