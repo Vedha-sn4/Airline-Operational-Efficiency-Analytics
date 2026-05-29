@@ -1,4 +1,4 @@
-# Commercial Airline Performance: Data Engineering & BI Platform
+# Airline Operational Efficiency & Passenger Sentiment Analytics
 
 ## Project Overview
 This project is an end-to-end data analytics and business intelligence platform designed to evaluate and optimize commercial airline performance. The pipeline integrates multiple synthetic aviation datasets—covering flight operations, weather metrics, airport traffic, fuel price volatility, and customer reviews—into a centralized, optimized **Star Schema Data Warehouse**. 
