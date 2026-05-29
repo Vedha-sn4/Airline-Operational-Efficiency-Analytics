@@ -1,0 +1,6 @@
+Origin,Destination,RouteDistance,RouteID
+JFK,LAX,2475,1
+JFK,ORD,740,2
+ATL,DFW,732,3
+LAX,ORD,1744,4
+ORD,ATL,606,5

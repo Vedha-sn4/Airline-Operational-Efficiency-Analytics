@@ -1,0 +1,9 @@
+variable,AirportCode,AirportID,AirportName,City,Country,CongestionSeverity
+Origin,JFK,1,JFK,New York,USA,43.72832054188403
+Origin,ATL,2,ATL,Atlanta,USA,59.20163362097359
+Origin,LAX,3,LAX,Los Angeles,USA,50.03845167905666
+Origin,ORD,4,ORD,Chicago,USA,47.86919486140645
+Destination,LAX,5,LAX,Los Angeles,USA,50.03845167905666
+Destination,ORD,6,ORD,Chicago,USA,47.86919486140645
+Destination,DFW,7,DFW,Dallas,USA,
+Destination,ATL,8,ATL,Atlanta,USA,59.20163362097359

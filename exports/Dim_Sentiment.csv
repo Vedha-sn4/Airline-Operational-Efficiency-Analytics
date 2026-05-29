@@ -1,0 +1,91 @@
+ReviewID,ReviewText,SentimentScore,SentimentCategory,SentimentID
+RV000,Smooth boarding while the weather made operations challenging.,0.1531,Positive,1
+RV001,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,2
+RV002,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,3
+RV010,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,4
+RV011,The flight was on time and staff were helpful.,0.4215,Positive,5
+RV012,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,6
+RV020,The flight was on time and staff were helpful.,0.4215,Positive,7
+RV021,I loved the comfort but the baggage wait was too long.,0.4939,Positive,8
+RV022,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,9
+RV030,Smooth boarding while the weather made operations challenging.,0.1531,Positive,10
+RV031,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,11
+RV032,Smooth boarding while the weather made operations challenging.,0.1531,Positive,12
+RV040,Smooth boarding while the weather made operations challenging.,0.1531,Positive,13
+RV041,Smooth boarding while the weather made operations challenging.,0.1531,Positive,14
+RV042,I loved the comfort but the baggage wait was too long.,0.4939,Positive,15
+RV050,The flight was on time and staff were helpful.,0.4215,Positive,16
+RV051,I loved the comfort but the baggage wait was too long.,0.4939,Positive,17
+RV052,Smooth boarding while the weather made operations challenging.,0.1531,Positive,18
+RV060,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,19
+RV061,The flight was on time and staff were helpful.,0.4215,Positive,20
+RV062,Smooth boarding while the weather made operations challenging.,0.1531,Positive,21
+RV070,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,22
+RV071,I loved the comfort but the baggage wait was too long.,0.4939,Positive,23
+RV072,"Delayed departure was frustrating, but the crew still tried.",-0.34,Negative,24
+RV080,Smooth boarding while the weather made operations challenging.,0.1531,Positive,25
+RV081,The flight was on time and staff were helpful.,0.4215,Positive,26
+RV082,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,27
+RV090,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,28
+RV091,I loved the comfort but the baggage wait was too long.,0.4939,Positive,29
+RV092,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,30
+RV100,"Delayed departure was frustrating, but the crew still tried.",-0.34,Negative,31
+RV101,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,32
+RV102,The flight was on time and staff were helpful.,0.4215,Positive,33
+RV110,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,34
+RV111,Smooth boarding while the weather made operations challenging.,0.1531,Positive,35
+RV112,"Delayed departure was frustrating, but the crew still tried.",-0.34,Negative,36
+RV120,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,37
+RV121,"Delayed departure was frustrating, but the crew still tried.",-0.34,Negative,38
+RV122,"Delayed departure was frustrating, but the crew still tried.",-0.34,Negative,39
+RV130,Smooth boarding while the weather made operations challenging.,0.1531,Positive,40
+RV131,"Delayed departure was frustrating, but the crew still tried.",-0.34,Negative,41
+RV132,The flight was on time and staff were helpful.,0.4215,Positive,42
+RV140,The flight was on time and staff were helpful.,0.4215,Positive,43
+RV141,The flight was on time and staff were helpful.,0.4215,Positive,44
+RV142,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,45
+RV150,I loved the comfort but the baggage wait was too long.,0.4939,Positive,46
+RV151,"Delayed departure was frustrating, but the crew still tried.",-0.34,Negative,47
+RV152,The flight was on time and staff were helpful.,0.4215,Positive,48
+RV160,The flight was on time and staff were helpful.,0.4215,Positive,49
+RV161,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,50
+RV162,Smooth boarding while the weather made operations challenging.,0.1531,Positive,51
+RV170,Smooth boarding while the weather made operations challenging.,0.1531,Positive,52
+RV171,"Delayed departure was frustrating, but the crew still tried.",-0.34,Negative,53
+RV172,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,54
+RV180,"Delayed departure was frustrating, but the crew still tried.",-0.34,Negative,55
+RV181,Smooth boarding while the weather made operations challenging.,0.1531,Positive,56
+RV182,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,57
+RV190,The flight was on time and staff were helpful.,0.4215,Positive,58
+RV191,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,59
+RV192,I loved the comfort but the baggage wait was too long.,0.4939,Positive,60
+RV200,Smooth boarding while the weather made operations challenging.,0.1531,Positive,61
+RV201,Smooth boarding while the weather made operations challenging.,0.1531,Positive,62
+RV202,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,63
+RV210,Smooth boarding while the weather made operations challenging.,0.1531,Positive,64
+RV211,"Delayed departure was frustrating, but the crew still tried.",-0.34,Negative,65
+RV212,"Delayed departure was frustrating, but the crew still tried.",-0.34,Negative,66
+RV220,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,67
+RV221,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,68
+RV222,Smooth boarding while the weather made operations challenging.,0.1531,Positive,69
+RV230,I loved the comfort but the baggage wait was too long.,0.4939,Positive,70
+RV231,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,71
+RV232,I loved the comfort but the baggage wait was too long.,0.4939,Positive,72
+RV240,The flight was on time and staff were helpful.,0.4215,Positive,73
+RV241,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,74
+RV242,Smooth boarding while the weather made operations challenging.,0.1531,Positive,75
+RV250,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,76
+RV251,I loved the comfort but the baggage wait was too long.,0.4939,Positive,77
+RV252,The flight was on time and staff were helpful.,0.4215,Positive,78
+RV260,The flight was on time and staff were helpful.,0.4215,Positive,79
+RV261,Smooth boarding while the weather made operations challenging.,0.1531,Positive,80
+RV262,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,81
+RV270,Smooth boarding while the weather made operations challenging.,0.1531,Positive,82
+RV271,"Delayed departure was frustrating, but the crew still tried.",-0.34,Negative,83
+RV272,I loved the comfort but the baggage wait was too long.,0.4939,Positive,84
+RV280,"Delayed departure was frustrating, but the crew still tried.",-0.34,Negative,85
+RV281,I loved the comfort but the baggage wait was too long.,0.4939,Positive,86
+RV282,Smooth boarding while the weather made operations challenging.,0.1531,Positive,87
+RV290,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,88
+RV291,Crew service was poor and flight announcements were unclear.,-0.6249,Negative,89
+RV292,Smooth boarding while the weather made operations challenging.,0.1531,Positive,90

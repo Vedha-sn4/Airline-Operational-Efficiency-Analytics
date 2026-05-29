@@ -1,0 +1,33 @@
+Multi-Domain Airline Optimization Pipeline Executive Summary
+============================================================
+
+PIPELINE OVERVIEW
+The analytics pipeline integrates flight operations, weather, airport traffic, fuel pricing, and passenger sentiment domains to produce clean, relational datasets optimized for Power BI ingestion.
+
+PREPROCESSING SUMMARY
+Raw datasets were standardized and merged across five domains. Missing values and duplicates were handled, cancelled flights were removed, and numeric outliers were capped using the IQR method.
+A total of 421 flight records were processed.
+Sentiment extraction produced 90 scored passenger reviews.
+
+TOP OPERATIONAL INSIGHTS
+High-inefficiency route: {'Origin': 'ORD', 'Destination': 'ATL', 'RouteDistance': 606, 'flights_per_route': 89, 'avg_delay': 15.224719101123595, 'delay_frequency': 0.7640449438202247, 'avg_efficiency': 97.5578733854088, 'avg_fuel_cost': 8869.846295131088, 'InefficiencyIndex': 47.03567004886863} with inefficiency index 47.04.
+Bottleneck airport: LAX with operational risk score 207.45.
+
+DELAY RISK FINDINGS
+Average delay cost per route segment is estimated at $1800.00.
+Crew extension and idle aircraft cost drivers were identified across routes with average route efficiency below 70%.
+
+MODEL PERFORMANCE
+Delay classification accuracy: 0.92.
+Precision: 0.87, Recall: 0.96, F1-score: 0.91.
+Regression RMSE: 3.41, MAE: 2.17.
+
+RECOMMENDATIONS
+- Prioritize flight schedule resilience on routes with the highest inefficiency indices.
+- Align staffing and gate resources at high-risk airports during peak congestion windows.
+- Monitor fuel volatility daily and hedge for routes with above-average fuel cost per route.
+- Use sentiment trends to improve customer communication during delay events.
+
+STAR SCHEMA GUIDANCE
+The exported schema separates facts and dimensions to simplify Power BI modelling. Fact_Flights links to Date, Route, Airport, Weather, Fuel, and Sentiment dimensions. Fact_Delays isolates delay-specific performance metrics.
+Date keys should be used for time intelligence, Route keys for operational analysis, and Airport keys for congestion and hub performance dashboards.

@@ -1,0 +1,91 @@
+ReviewID,ReviewDate,AirportCode,ReviewText
+RV000,2026-05-23,JFK,Smooth boarding while the weather made operations challenging.
+RV001,2026-05-23,ATL,Crew service was poor and flight announcements were unclear.
+RV002,2026-05-23,ATL,Crew service was poor and flight announcements were unclear.
+RV010,2026-05-24,ORD,Crew service was poor and flight announcements were unclear.
+RV011,2026-05-24,ORD,The flight was on time and staff were helpful.
+RV012,2026-05-24,JFK,Crew service was poor and flight announcements were unclear.
+RV020,2026-05-25,LAX,The flight was on time and staff were helpful.
+RV021,2026-05-25,ATL,I loved the comfort but the baggage wait was too long.
+RV022,2026-05-25,ATL,Crew service was poor and flight announcements were unclear.
+RV030,2026-05-26,JFK,Smooth boarding while the weather made operations challenging.
+RV031,2026-05-26,LAX,Crew service was poor and flight announcements were unclear.
+RV032,2026-05-26,DFW,Smooth boarding while the weather made operations challenging.
+RV040,2026-05-27,ORD,Smooth boarding while the weather made operations challenging.
+RV041,2026-05-27,LAX,Smooth boarding while the weather made operations challenging.
+RV042,2026-05-27,LAX,I loved the comfort but the baggage wait was too long.
+RV050,2026-05-28,JFK,The flight was on time and staff were helpful.
+RV051,2026-05-28,ORD,I loved the comfort but the baggage wait was too long.
+RV052,2026-05-28,JFK,Smooth boarding while the weather made operations challenging.
+RV060,2026-05-29,JFK,Crew service was poor and flight announcements were unclear.
+RV061,2026-05-29,DFW,The flight was on time and staff were helpful.
+RV062,2026-05-29,JFK,Smooth boarding while the weather made operations challenging.
+RV070,2026-05-30,ORD,Crew service was poor and flight announcements were unclear.
+RV071,2026-05-30,JFK,I loved the comfort but the baggage wait was too long.
+RV072,2026-05-30,ORD,"Delayed departure was frustrating, but the crew still tried."
+RV080,2026-05-31,ORD,Smooth boarding while the weather made operations challenging.
+RV081,2026-05-31,LAX,The flight was on time and staff were helpful.
+RV082,2026-05-31,ATL,Crew service was poor and flight announcements were unclear.
+RV090,2026-06-01,DFW,Crew service was poor and flight announcements were unclear.
+RV091,2026-06-01,ATL,I loved the comfort but the baggage wait was too long.
+RV092,2026-06-01,ORD,Crew service was poor and flight announcements were unclear.
+RV100,2026-06-02,ORD,"Delayed departure was frustrating, but the crew still tried."
+RV101,2026-06-02,ATL,Crew service was poor and flight announcements were unclear.
+RV102,2026-06-02,DFW,The flight was on time and staff were helpful.
+RV110,2026-06-03,LAX,Crew service was poor and flight announcements were unclear.
+RV111,2026-06-03,ATL,Smooth boarding while the weather made operations challenging.
+RV112,2026-06-03,ATL,"Delayed departure was frustrating, but the crew still tried."
+RV120,2026-06-04,DFW,Crew service was poor and flight announcements were unclear.
+RV121,2026-06-04,JFK,"Delayed departure was frustrating, but the crew still tried."
+RV122,2026-06-04,JFK,"Delayed departure was frustrating, but the crew still tried."
+RV130,2026-06-05,ATL,Smooth boarding while the weather made operations challenging.
+RV131,2026-06-05,ATL,"Delayed departure was frustrating, but the crew still tried."
+RV132,2026-06-05,ATL,The flight was on time and staff were helpful.
+RV140,2026-06-06,JFK,The flight was on time and staff were helpful.
+RV141,2026-06-06,JFK,The flight was on time and staff were helpful.
+RV142,2026-06-06,LAX,Crew service was poor and flight announcements were unclear.
+RV150,2026-06-07,ATL,I loved the comfort but the baggage wait was too long.
+RV151,2026-06-07,LAX,"Delayed departure was frustrating, but the crew still tried."
+RV152,2026-06-07,ORD,The flight was on time and staff were helpful.
+RV160,2026-06-08,LAX,The flight was on time and staff were helpful.
+RV161,2026-06-08,DFW,Crew service was poor and flight announcements were unclear.
+RV162,2026-06-08,JFK,Smooth boarding while the weather made operations challenging.
+RV170,2026-06-09,DFW,Smooth boarding while the weather made operations challenging.
+RV171,2026-06-09,DFW,"Delayed departure was frustrating, but the crew still tried."
+RV172,2026-06-09,ATL,Crew service was poor and flight announcements were unclear.
+RV180,2026-06-10,ORD,"Delayed departure was frustrating, but the crew still tried."
+RV181,2026-06-10,DFW,Smooth boarding while the weather made operations challenging.
+RV182,2026-06-10,DFW,Crew service was poor and flight announcements were unclear.
+RV190,2026-06-11,LAX,The flight was on time and staff were helpful.
+RV191,2026-06-11,JFK,Crew service was poor and flight announcements were unclear.
+RV192,2026-06-11,ORD,I loved the comfort but the baggage wait was too long.
+RV200,2026-06-12,ORD,Smooth boarding while the weather made operations challenging.
+RV201,2026-06-12,ATL,Smooth boarding while the weather made operations challenging.
+RV202,2026-06-12,ORD,Crew service was poor and flight announcements were unclear.
+RV210,2026-06-13,ATL,Smooth boarding while the weather made operations challenging.
+RV211,2026-06-13,ORD,"Delayed departure was frustrating, but the crew still tried."
+RV212,2026-06-13,ATL,"Delayed departure was frustrating, but the crew still tried."
+RV220,2026-06-14,LAX,Crew service was poor and flight announcements were unclear.
+RV221,2026-06-14,JFK,Crew service was poor and flight announcements were unclear.
+RV222,2026-06-14,ORD,Smooth boarding while the weather made operations challenging.
+RV230,2026-06-15,JFK,I loved the comfort but the baggage wait was too long.
+RV231,2026-06-15,ATL,Crew service was poor and flight announcements were unclear.
+RV232,2026-06-15,DFW,I loved the comfort but the baggage wait was too long.
+RV240,2026-06-16,DFW,The flight was on time and staff were helpful.
+RV241,2026-06-16,DFW,Crew service was poor and flight announcements were unclear.
+RV242,2026-06-16,ATL,Smooth boarding while the weather made operations challenging.
+RV250,2026-06-17,DFW,Crew service was poor and flight announcements were unclear.
+RV251,2026-06-17,JFK,I loved the comfort but the baggage wait was too long.
+RV252,2026-06-17,LAX,The flight was on time and staff were helpful.
+RV260,2026-06-18,LAX,The flight was on time and staff were helpful.
+RV261,2026-06-18,DFW,Smooth boarding while the weather made operations challenging.
+RV262,2026-06-18,LAX,Crew service was poor and flight announcements were unclear.
+RV270,2026-06-19,ATL,Smooth boarding while the weather made operations challenging.
+RV271,2026-06-19,ORD,"Delayed departure was frustrating, but the crew still tried."
+RV272,2026-06-19,DFW,I loved the comfort but the baggage wait was too long.
+RV280,2026-06-20,ORD,"Delayed departure was frustrating, but the crew still tried."
+RV281,2026-06-20,ORD,I loved the comfort but the baggage wait was too long.
+RV282,2026-06-20,DFW,Smooth boarding while the weather made operations challenging.
+RV290,2026-06-21,LAX,Crew service was poor and flight announcements were unclear.
+RV291,2026-06-21,JFK,Crew service was poor and flight announcements were unclear.
+RV292,2026-06-21,DFW,Smooth boarding while the weather made operations challenging.
